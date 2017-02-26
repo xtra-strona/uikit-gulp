@@ -1,0 +1,19 @@
+body {
+    background-color: $purple;
+
+    h1 {
+        color: $lite-white;
+        padding: 3rem;
+    }
+}
+
+#nav-h,
+#nav-t {
+    background-color: $dark-blue;
+    border-bottom: 1px solid $light-red;
+}
+
+.uk-offcanvas-bar {
+    background-color: $dark-orange;
+    border-right: solid 0.1rem $lite-white;
+}
